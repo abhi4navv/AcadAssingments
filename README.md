@@ -1,2 +1,2 @@
 # AcadAssingments
-Assignments of data science course
+Assignment 1 of data science course
